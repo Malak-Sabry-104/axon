@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+# C extensions
+*.so
+# PyInstaller
+dist/
+build/
+# Documentation
+docs/
+# Pyenv
+.python-version
+# Local geography
+.vscode/
+# Virtual environment
+venv/
+.env
+# Others
+.git/
+# IDE
+.idea/
+# Logs
+*.log
+# DS Store
+.DS_Store
+# Node
+node_modules/
+# pip
+pip/
+# Test
+__test__/
+# Type hints
+__type_hints__/
+# pytest
+.pytest_cache/
+# mypy
+.mypy_cache/
+# .gitignore and other meta files
+.gitattributes
+.gitmodules
+# misc
+.coverage
+*.egg-info/
+.eggs/
+# Spyder project settings
+.spyderproject
+.spyproject
+# Rope project settings
+.ropeproject
+# IPython
+profile_default/
+ipython_config.py
+# Jupyter notebook
+.ipynb_checkpoints/
+# Git book
+_book/
+# pyup
+.pyup/
+# pyup update
+pyup.log
+# mkdocs
+site/
